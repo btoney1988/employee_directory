@@ -1,6 +1,5 @@
 import React, { useContext } from "react";
 import EmployeeBody from "../EmployeeBody";
-// import "./EmployeeTable.css";
 import EmployeeContext from "../../utils/EmployeeContext";
 
 const EmployeeTable = () => {

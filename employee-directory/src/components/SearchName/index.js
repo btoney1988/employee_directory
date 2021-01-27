@@ -1,5 +1,4 @@
 import React, { useContext } from "react";
-// import "./SearchName.css";
 import EmployeeContext from "../../utils/EmployeeContext";
 
 const SearchName = () => {
